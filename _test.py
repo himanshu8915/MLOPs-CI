@@ -1,4 +1,4 @@
-import pywin32_test
+import pytest
 
 #function to test square
 def square(n):
